@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+
 Hello I am Kenny
-=======
+
 dhfcgvzsrhxdtcfgvhbhyuhghlfjkn
->>>>>>> e4c164b2a09adca5233d72bde66520ebfa2bd076
+
+Hello I am Kenny
+
+dhfcgvzsrhxdtcfgvhbhyuhghlfjkn
+
+
